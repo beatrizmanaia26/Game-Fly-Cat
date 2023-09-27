@@ -1,0 +1,79 @@
+@import url('https://fonts.cdnfonts.com/css/candice');
+* {
+    margin: 0;
+    padding: 0;
+}
+#tamanho{
+    font-family: "Comic Sans MS", "sans-serif";
+    font-size: 25px;
+    margin-top: 10px;
+    margin-left: 60px;
+}
+a:hover{
+    color: hotpink;
+}
+body {
+    background-image: url("imagem1/background.png");
+    background-repeat: repeat;
+    background-size: 200px 200px;
+    background-attachment: fixed;
+    caret-color: transparent;
+    overflow-x: hidden;
+}
+
+#titulos2{
+
+    heigh: 150vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin: -40px;
+}
+h2{
+    font-size: 23px;
+    font-family: 'Candice', sans-serif;
+    display: flex;
+    margin-left: 200px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    color: salmon;
+}
+
+.texto2{
+    font-size: 18px;
+    font-family: 'Candice', sans-serif;
+    display: flex;
+    margin-right: 100px;
+    margin-left: 250px;
+}
+table,th,td{
+    border: 1px solid;
+    border-color: lightpink;
+    margin-bottom: 15px;
+}
+table{
+    color: lightpink;
+}
+td{
+    color: black;
+    font-size: 20px;
+}
+#centro{
+    display: flex;
+    justify-content: center;
+}
+.corrigir{
+    display: inline;
+    color: transparent;
+}
+
+.i2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.imagem{
+
+}
